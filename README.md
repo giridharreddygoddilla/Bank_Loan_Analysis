@@ -43,11 +43,11 @@ The project includes three dashboard views:
 
 ### Summary Dashboard
 
-![Bank Loan Summary Dashboard](images/Summary_Dashboard.png)
+![Bank Loan Summary Dashboard](Images/Summary_Dashboard.png)
 
 ### Overview Dashboard
 
-![Bank Loan Overview Dashboard](images/Overview_Dashboard.png)
+![Bank Loan Overview Dashboard](Images/Overview_Dashboard.png)
 
 ## 6. 🛠️ Tools & Technical Skills
 
