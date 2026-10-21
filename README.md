@@ -43,14 +43,14 @@ The project includes three dashboard views:
 
 ### Summary Dashboard
 
-![Bank Loan Summary Dashboard](Images/Summary_Dashboard.png)
+![Bank Loan Summary Dashboard](Image/Summary_Dashboard.png)
 
 - This dashboard provides a high-level summary of key loan application metrics and lending performance.
 - It highlights loan amounts, funded amounts, repayments, and good versus bad loan indicators.
 
 ### Overview Dashboard
 
-![Bank Loan Overview Dashboard](Images/Overview_Dashboard.png)
+![Bank Loan Overview Dashboard](Image/Overview_Dashboard.png)
 
 - This dashboard presents detailed insights into loan applications across different categories and borrower profiles.
 - It helps identify trends in loan status, loan purpose, employment length, and borrower home ownership.
