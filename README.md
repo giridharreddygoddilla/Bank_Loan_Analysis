@@ -43,14 +43,14 @@ The project includes three dashboard views:
 
 ### Summary Dashboard
 
-![Bank Loan Summary Dashboard](images/Summary_Dashboard.png)
+![Bank Loan Summary Dashboard](Images/Summary_Dashboard.png)
 
 - This dashboard provides a high-level summary of key loan application metrics and lending performance.
 - It highlights loan amounts, funded amounts, repayments, and good versus bad loan indicators.
 
 ### Overview Dashboard
 
-![Bank Loan Overview Dashboard](images/Overview_Dashboard.png)
+![Bank Loan Overview Dashboard](Images/Overview_Dashboard.png)
 
 - This dashboard presents detailed insights into loan applications across different categories and borrower profiles.
 - It helps identify trends in loan status, loan purpose, employment length, and borrower home ownership.
@@ -90,9 +90,9 @@ bank-loan-analytics/
 │   └── Bank Loan Analysis and Dashboard.xlsx
 ├── Business Problem/
 │   └── Problem_Statement.docx
-├── data/
+├── Data/
 │   └── financial_loan.CSV
-├── images/
+├── Images/
 │   ├── Bank_Image.png
 │   ├── Overview_Dashboard.png
 │   └── Summary_Dashboard.png
@@ -115,5 +115,3 @@ bank-loan-analytics/
 - Verify dataset redistribution permissions before publishing the raw data.
 
 ---
-
-*Portfolio project demonstrating loan portfolio analysis, Excel dashboard development, and data-driven business interpretation.*
